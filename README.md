@@ -1,4 +1,4 @@
-# python-counter
+# accent-counter
 
 | Character | Use |
 | --- | --- |
